@@ -232,7 +232,7 @@
   margin: 0 0 25px;
   color: #ffffff;
   font-size: clamp(38px, 4.5vw, 70px);
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.13;
   letter-spacing: -1.5px;
   text-transform: none;
@@ -714,7 +714,7 @@
   gap: 12px;
   color: #18b7ae;
   font-size: 16px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 1.8px;
   margin-bottom: 23px;
 }
@@ -729,7 +729,7 @@
   margin: 0 0 28px;
   color: #1c1d23;
   font-size: 35px;
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.2;
   letter-spacing: -1.3px;
 }
@@ -768,7 +768,7 @@
 .inet-highlight-number {
   color: #18b7ae;
   font-size: 15px;
-  font-weight: 800;
+  /* font-weight: 800; */
   padding-top: 2px;
 }
 
@@ -935,7 +935,7 @@
   margin-bottom: 20px;
   color: #18b7ae;
   font-size: 16px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 2px;
 }
 
@@ -949,7 +949,7 @@
   margin: 0 0 20px;
   color: #192034;
   font-size: 35px;
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.2;
   letter-spacing: -1.2px;
 }
@@ -1051,7 +1051,7 @@
   border-radius: 4px;
   color: #18b7ae;
   font-size: 16px;
-  font-weight: 800;
+  /* font-weight: 800; */
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
@@ -1107,7 +1107,7 @@
     margin-bottom: 12px;
     color: #18b7ae;
     font-size: 11px;
-    font-weight: 800;
+    /* font-weight: 800; */
     letter-spacing: 1px;
     text-transform: uppercase;
 }
@@ -1196,7 +1196,7 @@
   color: #18b7ae;
   font-size: 15px;
   letter-spacing: 2px;
-  font-weight: 800;
+  /* font-weight: 800; */
 }
 
 .inet-products-cta h3 {
@@ -1451,7 +1451,7 @@
   margin: 0 0 22px;
   font-size: clamp(36px, 3.45vw, 58px);
   line-height: 1.14;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: -1.6px;
   color: #ffffff;
 }
@@ -1695,7 +1695,7 @@
   margin: 0 0 12px;
   color: #131b30;
   font-size: 16px;
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.35;
   transition: color 0.3s ease;
 }
@@ -2019,7 +2019,7 @@
   gap: 12px;
   color: #18b7ae;
   font-size: 16px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 2px;
   margin-bottom: 22px;
 }
@@ -2033,7 +2033,7 @@
 .inet-industry-heading h2 {
   font-size: 35px;
   color: #182136;
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.16;
   letter-spacing: -1.5px;
   margin: 0 0 22px;
@@ -2077,7 +2077,7 @@
   color: #657083;
   font-size: 11px;
   letter-spacing: 1.3px;
-  font-weight: 800;
+  /* font-weight: 800; */
 }
 
 .inet-ind-selector-grid {
@@ -2222,7 +2222,7 @@
   border-bottom: 1px solid rgba(255,255,255,0.12);
   color: #18b7ae;
   font-size: 15px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 1.4px;
 }
 
@@ -2273,7 +2273,7 @@
 .inet-ind-panel h3 {
   margin: 0 0 17px;
   font-size: 33px;
-  font-weight: 800;
+  /* font-weight: 800; */
   color: #ffffff;
   line-height: 1.2;
   letter-spacing: -0.6px;
@@ -2325,7 +2325,7 @@
   background: rgba(153, 91, 205, 0.22);
   color: #18b7ae;
   font-size: 11px;
-  font-weight: 800;
+  /* font-weight: 800; */
 }
 
 .inet-ind-panel-solutions {
@@ -2387,7 +2387,7 @@
 
 .inet-industry-footer h3 {
   font-size: 22px;
-  font-weight: 800;
+  /* font-weight: 800; */
   color: #192034;
   margin: 0 0 9px;
 }
@@ -2627,7 +2627,7 @@
   margin-bottom: 29px;
   color: #18b7ae;
   font-size: 16px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 1.35px;
 }
 
@@ -2642,7 +2642,7 @@
   margin: 0 0 28px;
   color: #111c32;
   font-size: 35px;
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.15;
   letter-spacing: -1.7px;
 }
@@ -2686,8 +2686,8 @@
   margin-bottom: 7px;
   color: #15213a;
   font-size: 31px;
-  font-weight: 800;
-  line-height: 1;
+  /* font-weight: 800; */
+  line-height: 1.1;
 }
 
 .inet-why-values span {
@@ -2937,7 +2937,7 @@
   margin: 0 0 9px;
   color: #152037;
   font-size: 16px;
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.35;
 }
 
@@ -3026,7 +3026,7 @@
   margin: 0 0 10px;
   color: #ffffff;
   font-size: clamp(22px, 2vw, 30px);
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.3;
 }
 
@@ -3466,7 +3466,7 @@
   margin-bottom: 17px;
   color: #18b7ae;
   font-size: 15px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 1.7px;
 }
 
@@ -3475,7 +3475,7 @@
   color: #152039;
   font-size: clamp(32px, 3vw, 45px);
   line-height: 1.2;
-  font-weight: 800;
+  /* font-weight: 800; */
 }
 
 .inet-reviews-intro h2 span {
@@ -3559,7 +3559,7 @@
   margin-top: 20px;
   color: #18b7ae;
   font-size: 62px;
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1;
 }
 
@@ -3614,7 +3614,7 @@
   margin: 0 0 13px;
   color: #ffffff;
   font-size: 22px;
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.3;
 }
 
@@ -3775,7 +3775,7 @@
   color: #ffffff;
   font-size: clamp(30px, 3.3vw, 47px);
   line-height: 1.2;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: -1px;
   margin: 0 0 20px;
 }
@@ -3971,7 +3971,7 @@
   color: #18b7ae;
   margin-top: 5px;
   font-size: 11px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 3px;
 }
 
@@ -4031,7 +4031,7 @@
   position: relative;
   color: #ffffff;
   font-size: 19px;
-  font-weight: 800;
+  /* font-weight: 800; */
   margin: 5px 0 28px;
   padding-bottom: 17px;
 }
@@ -4506,7 +4506,7 @@
   margin-bottom: 19px;
   color: #18b7ae;
   font-size: 16px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 1.8px;
 }
 
@@ -4521,7 +4521,7 @@
   margin: 0 0 17px;
   color: #172038;
   font-size: 35px;
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.18;
   letter-spacing: -1.2px;
 }
@@ -4666,7 +4666,7 @@
   background: #ffffff;
   color: #18b7ae;
   font-size: 16px;
-  font-weight: 800;
+  /* font-weight: 800; */
 }
 
 /* CATEGORY LABEL */
@@ -4743,7 +4743,7 @@
   margin: 0 0 13px;
   color: #172038;
   font-size: 21px;
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.35;
   transition: color 0.3s ease;
 }
@@ -4773,7 +4773,7 @@
 .inet-case-technology > span {
   color: #9397a4;
   font-size: 14px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 1px;
 }
 
@@ -4827,7 +4827,7 @@
 .inet-case-pagination-active {
   color: #18b7ae;
   font-size: 22px;
-  font-weight: 800;
+  /* font-weight: 800; */
 }
 
 .inet-case-pagination-divider {
@@ -5033,7 +5033,7 @@
 .inet-sol-four-grid .inet-sol-card-content h3 {
   font-size: 16px;
   line-height: 1.4;
-  font-weight: 800;
+  /* font-weight: 800; */
   margin: 0 0 12px;
   color: #162039;
 }
@@ -5248,7 +5248,7 @@
   margin-bottom: 22px;
   color: #18b7ae;
   font-size: 15px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 2px;
 }
 
@@ -5265,7 +5265,7 @@
   margin: 0 0 20px;
   color: #ffffff;
   font-size: clamp(35px, 4vw, 55px);
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.16;
   letter-spacing: -1.5px;
 }
@@ -5486,7 +5486,7 @@
   background: #18b7ae;
   border-radius: 4px;
   font-size: 10px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 1.3px;
   box-shadow: 0 12px 30px rgba(101, 22, 164, 0.22);
 }
@@ -5510,7 +5510,7 @@
   margin-bottom: 21px;
   color: #18b7ae;
   font-size: 16px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 1.8px;
 }
 
@@ -5524,7 +5524,7 @@
   margin: 0 0 24px;
   color: #111b35;
   font-size: 35px;
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.18;
   letter-spacing: -1.2px;
 }
@@ -5543,7 +5543,7 @@
 
 .inet-who-lead strong {
   color: #18b7ae;
-  font-weight: 800;
+  /* font-weight: 800; */
 }
 
 .inet-who-description {
@@ -5586,14 +5586,14 @@
   background: #f1e7fa;
   color: #18b7ae;
   font-size: 13px;
-  font-weight: 800;
+  /* font-weight: 800; */
 }
 
 .inet-who-highlight-text h3 {
   margin: 0 0 4px;
   color: #17213b;
   font-size: 16px;
-  font-weight: 800;
+  /* font-weight: 800; */
 }
 
 .inet-who-highlight-text p {
@@ -5765,7 +5765,7 @@
   margin-bottom: 17px;
   color: #18b7ae;
   font-size: 15px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 1.7px;
 }
 
@@ -5779,7 +5779,7 @@
   margin: 0 0 17px;
   color: #111b35;
   font-size: clamp(31px, 3.3vw, 44px);
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.2;
   letter-spacing: -1.1px;
 }
@@ -5837,7 +5837,7 @@
   position: relative;
   z-index: 1;
   font-size: 11px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 1.6px;
 }
 
@@ -5871,7 +5871,7 @@
 .inet-vm-card h3 {
   margin: 0 0 14px;
   font-size: clamp(23px, 2vw, 29px);
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.3;
   letter-spacing: -0.6px;
 }
@@ -5891,7 +5891,7 @@
   gap: 12px;
   margin-top: auto;
   font-size: 10px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 1.5px;
 }
 
@@ -5992,7 +5992,7 @@
 
 .inet-vm-statement strong {
   color: #111b35;
-  font-weight: 800;
+  /* font-weight: 800; */
 }
 
 /* SCROLL ANIMATIONS */
@@ -6129,7 +6129,7 @@
   margin-bottom: 18px;
   color: #18b7ae;
   font-size: 15px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 1.8px;
 }
 
@@ -6143,7 +6143,7 @@
   margin: 0 0 19px;
   color: #111b35;
   font-size: clamp(32px, 3.4vw, 45px);
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.2;
   letter-spacing: -1.1px;
 }
@@ -6211,7 +6211,7 @@
 .inet-do-item-number {
   flex: 0 0 34px;
   font-size: 13px;
-  font-weight: 800;
+  /* font-weight: 800; */
   color: #a1a6b5;
 }
 
@@ -6257,7 +6257,7 @@
 .inet-do-item-text strong {
   color: #182039;
   font-size: 16px;
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.4;
 }
 
@@ -6326,7 +6326,7 @@
   gap: 15px;
   color: #18b7ae;
   font-size: 15px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 1.5px;
 }
 
@@ -6361,7 +6361,7 @@
   margin: 0 0 16px;
   color: #ffffff;
   font-size: clamp(23px, 2.3vw, 18px);
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.3;
 }
 
@@ -6410,7 +6410,7 @@
   margin-top: auto;
   color: #18b7ae;
   font-size: 15px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 1.2px;
 }
 
@@ -6592,7 +6592,7 @@
   margin-bottom: 18px;
   color: #18b7ae;
   font-size: 15px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 1.7px;
 }
 
@@ -6606,7 +6606,7 @@
   margin: 0 0 18px;
   color: #111b35;
   font-size: clamp(31px, 3.3vw, 44px);
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.2;
   letter-spacing: -1px;
 }
@@ -6701,7 +6701,7 @@
 .inet-values-number {
   color: #d2cadb;
   font-size: 23px;
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1;
 }
 
@@ -6711,7 +6711,7 @@
   margin: 0 0 12px;
   color: #172039;
   font-size: 19px;
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.35;
 }
 
@@ -6911,7 +6911,7 @@
   margin-bottom: 18px;
   color: #ffffff;
   font-size: 15px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 1.8px;
 }
 
@@ -6926,7 +6926,7 @@
   margin: 0 0 17px;
   color: #ffffff;
   font-size: clamp(30px, 3.3vw, 20px);
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.2;
   letter-spacing: -1px;
 }
@@ -6962,7 +6962,7 @@
   padding: 12px 22px;
   border-radius: 7px;
   font-size: 13px;
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.4;
   text-decoration: none;
   transition:
@@ -7217,7 +7217,7 @@
   margin-bottom: 22px;
   color: #d5a5fa;
   font-size: 15px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 1.7px;
 }
 
@@ -7231,7 +7231,7 @@
   margin: 0 0 25px;
   color: #ffffff;
   font-size: clamp(32px, 3.4vw, 47px);
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.2;
   letter-spacing: -1.3px;
 }
@@ -7285,7 +7285,7 @@
   margin-bottom: 7px;
   color: #ffffff;
   font-size: 16px;
-  font-weight: 800;
+  /* font-weight: 800; */
 }
 
 .inet-about-why-commitment p {
@@ -7334,7 +7334,7 @@
   flex: 0 0 40px;
   color: #bc83ec;
   font-size: 17px;
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.5;
 }
 
@@ -7347,7 +7347,7 @@
   margin: 0 0 8px;
   color: #ffffff;
   font-size: 19px;
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.4;
 }
 
@@ -7532,7 +7532,7 @@
   margin-bottom: 16px;
   color: #b77de8;
   font-size: 11px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 2.2px;
 }
 
@@ -7540,7 +7540,7 @@
   margin: 0 0 19px;
   color: #ffffff;
   font-size: clamp(32px, 4vw, 53px);
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.18;
   letter-spacing: -1.4px;
 }
@@ -7622,7 +7622,7 @@
 .inet-industries-nav-link > span {
   color: #a06cdb;
   font-size: 10px;
-  font-weight: 800;
+  /* font-weight: 800; */
 }
 
 .inet-industries-nav-link:hover,
@@ -7771,7 +7771,7 @@
 .inet-industries-category {
   color: #b87fe6;
   font-size: 15px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 1.15px;
 }
 
@@ -7779,7 +7779,7 @@
   margin: 0 0 13px;
   color: #ffffff;
   font-size: clamp(21px, 2vw, 20px);
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 27px;
 }
 
@@ -7807,7 +7807,7 @@
   margin: 0 0 12px;
   color: #c38df3;
   font-size: 15px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 1.2px;
 }
 
@@ -7886,7 +7886,7 @@ html {
   margin-bottom: 12px;
   color: #ffffff;
   font-size: 15px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 1.4px;
 }
 
@@ -7894,7 +7894,7 @@ html {
   margin: 0 0 11px;
   color: #ffffff;
   font-size: clamp(23px, 2.8vw, 22px);
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 27px;
 }
 
@@ -7916,7 +7916,7 @@ html {
   background: #18b7ae;
   color: #ffffff;
   font-size: 15px;
-  font-weight: 800;
+  /* font-weight: 800; */
   text-decoration: none;
   transition:
     background 0.3s ease,
@@ -8161,7 +8161,7 @@ html {
   margin: 0 0 12px;
   color: #ffffff;
   font-size: clamp(38px, 4.5vw, 58px);
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.15;
   letter-spacing: -1px;
 }
@@ -8277,7 +8277,7 @@ html {
   margin-bottom: 20px;
   color: #18b7ae;
   font-size: 16px;
-  font-weight: 800;
+  /* font-weight: 800; */
   letter-spacing: 1.8px;
 }
 
@@ -8293,7 +8293,7 @@ html {
   margin: 0 0 22px;
   color: #111b35;
   font-size: 35px;
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.19;
   letter-spacing: -1.1px;
 }
@@ -8314,7 +8314,7 @@ html {
 
 .inet-who-lead strong {
   color: #111b35;
-  font-weight: 800;
+  /* font-weight: 800; */
 }
 
 .inet-who-description {
@@ -8384,7 +8384,7 @@ html {
   margin: 0 0 6px;
   color: #111b35;
   font-size: 16px;
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.3;
 }
 
@@ -8625,7 +8625,7 @@ html {
   margin-bottom: 14px;
   color: #18b7ae;
   font-size: 15px;
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.4;
   letter-spacing: 1.6px;
 }
@@ -8647,7 +8647,7 @@ html {
   margin: 0 0 20px;
   color: #111b35;
   font-size: clamp(23px, 2vw, 18px);
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.25;
   letter-spacing: -0.5px;
 }
@@ -9052,14 +9052,14 @@ html {
   color: #18b7ae;
   font-size: 15px;
   letter-spacing: 3px;
-  font-weight: 800;
+  /* font-weight: 800; */
   margin-bottom: 15px;
 }
 
 .inet-hex-intro h1 {
   color: #111b35;
   font-size: clamp(29px, 3.4vw, 42px);
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.2;
   letter-spacing: -0.8px;
   margin: 0 0 14px;
@@ -9146,7 +9146,7 @@ html {
 
 .inet-hex-card h3 {
   font-size: clamp(17px, 1.5vw, 20px);
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.3;
   color: #111b35;
   margin: 0 0 9px;
@@ -9310,14 +9310,14 @@ html {
   color: #18b7ae;
   letter-spacing: 2px;
   font-size: 11px;
-  font-weight: 800;
+  /* font-weight: 800; */
   margin-bottom: 10px;
 }
 
 .inet-hex-support h2 {
   color: #111b35;
   font-size: clamp(23px, 2.5vw, 31px);
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.3;
   margin: 0 0 10px;
 }
@@ -9535,7 +9535,7 @@ html {
 .inet-portfolio-products-heading h2 {
   color: #111b35;
   font-size: clamp(30px, 3.2vw, 42px);
-  font-weight: 800;
+  /* font-weight: 800; */
   line-height: 1.25;
   margin-bottom: 15px;
 }
@@ -9832,7 +9832,7 @@ html {
   padding: 22px 22px 17px;
   font-size: 16px;
   letter-spacing: 1.1px;
-  font-weight: 800;
+  /* font-weight: 800; */
   color: var(--catalog-navy);
   border-bottom: 1px solid var(--catalog-border);
 }
@@ -10018,7 +10018,7 @@ html {
 
 .inet-catalog-types li > span {
   color: var(--catalog-purple);
-  font-weight: 800;
+  /* font-weight: 800; */
 }
 
 /* APPLICATIONS */
@@ -10486,7 +10486,7 @@ html {
   background: #eee4f8;
   color: var(--sol-purple);
   font-size: 11px;
-  font-weight: 800;
+  /* font-weight: 800; */
   margin-top: 1px;
 }
 
