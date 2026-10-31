@@ -55,14 +55,14 @@ const HeaderOne = () => {
                            <Link href="/"><img src="/assets/img/logo/logo.png" alt="logo" /></Link>
                         </div>
                      </div>
-                     <div className="col-xl-7 d-none d-xl-block text-end">
+                     <div className="col-xl-8 d-none d-xl-block text-end">
                         <div className="tp-main-menu text-center">
                            <nav id="mobile-menu">
                            <NavMenu /> 
                            </nav>
                         </div>
                      </div>
-                     <div className="col-xl-3 col-lg-6 col-md-7 col-5">
+                     <div className="col-xl-2 col-lg-6 col-md-7 col-5">
                         <div className="search-main p-relative">
                               <div className="tp-header-right">
                                  

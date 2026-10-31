@@ -64,6 +64,20 @@ const menu_data = [
     title: "Case Study",
     link: "/case-study",
   },
+  {
+    id: 2,
+    mega_menu: false,
+    has_dropdown: false,
+    title: "Shop",
+    link: "#",
+  },
+  {
+    id: 2,
+    mega_menu: false,
+    has_dropdown: false,
+    title: "Customer Login",
+    link: "#",
+  },
 ];
 
 export default menu_data;
