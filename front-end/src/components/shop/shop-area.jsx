@@ -1,6 +1,11 @@
 
 import React from "react";
 
+// CCTV BACKGROUND VIDEO
+const shopBackgroundVideo = "/assets/img/shop-cctv-background.mp4";
+
+
+
 const ShopArea = () => {
   return (
     <section
@@ -16,7 +21,7 @@ const ShopArea = () => {
           loop
           playsInline
           preload="metadata"
-          poster="/assets/img/cctv-background.jpg"
+        
           disablePictureInPicture
           disableRemotePlayback
         >

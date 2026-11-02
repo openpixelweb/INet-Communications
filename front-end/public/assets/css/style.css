@@ -11947,7 +11947,7 @@ html {
 
   color: #f1e9ff;
   font-size: 12px;
-  font-weight: 700;
+  
   letter-spacing: 2px;
 }
 
@@ -11970,7 +11970,7 @@ html {
 
   color: #ffffff;
   font-size: clamp(36px, 5.5vw, 72px);
-  font-weight: 800;
+  
   line-height: 1.15;
   letter-spacing: -1.5px;
   text-shadow: 0 6px 32px rgba(0, 0, 0, 0.17);
@@ -12254,7 +12254,7 @@ html {
 .inet-auth-heading h1 {
   color: #111b35;
   font-size: 32px;
-  font-weight: 800;
+  
   line-height: 1.25;
   margin: 0 0 10px;
 }
@@ -12365,7 +12365,7 @@ html {
 }
 
 .inet-auth-toggle:hover {
-  color: #49107a;
+  color: #18b7ae;
 }
 
 /* ERROR MESSAGE */
