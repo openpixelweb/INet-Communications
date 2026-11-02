@@ -166,13 +166,7 @@ const Footer = ({ style_2 }) => {
                   </div>
                 </div>
 
-                <Link
-                  href="#"
-                  className="inet-footer-contact-btn"
-                >
-                  Get In Touch
-                  <span aria-hidden="true">↗</span>
-                </Link>
+                
 
               </div>
             </div>

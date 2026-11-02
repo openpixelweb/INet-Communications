@@ -1,15 +1,28 @@
+
 import React from "react";
+
 import Wrapper from "../layout/wrapper";
 import SEO from "../common/seo";
-import Shop from "../components/shop";
+import HeaderOne from "../layout/headers/header";
+import Footer from "../layout/footers/footer";
 
-const index = () => {
+import ShopArea from "../components/shop/shop-area";
+
+const ShopPage = () => {
   return (
     <Wrapper>
-      <SEO pageTitle={"Sectox - CCTV & Security"} />
-      <Shop />
+      <SEO pageTitle="Shop - iNet Communications" />
+
+      <HeaderOne />
+
+      <main>
+        
+        <ShopArea />
+      </main>
+
+      <Footer />
     </Wrapper>
   );
 };
 
-export default index;
+export default ShopPage;
